@@ -1,0 +1,88 @@
+Library hours:
+Libraries are open daily from 9 am to 5 pm.
+
+First library address:
+10 Main St.
+
+Books in the first library:
+Book name is The Da Vinci Code, Author is Dan Brown
+Book name is Le Petit Prince, Author is Antoine de Saint-Exupery
+Book name is A Tale of Two Cities, Author is Charles Dickens
+Book name is The Lord of the Rings, Author is J. R. R. Tolkien
+Book name is The Lord of the Rings, Author is J. R. R. Tolkien
+Dictionary Name is Oxford Dictionary of English, definitions: 6000
+
+Customers in the first library:
+Name: Ayse Caliskan, Birth Date: 1995, Birth Place: Istanbul
+Address: 10 Green Brier Blv.
+Name: Mehmet Ari, Birth Date: -, Birth Place: -
+Address: 10 Liberty St.
+Name: Ela Kara, Birth Date: 1980, Birth Place: -
+Address: 17 Main St.
+Name: Selin Ergul, Birth Date: 1987, Birth Place: -
+Address: -
+
+Second Library address:
+221B Baker St.
+
+Books in the second library:
+No book in catalog
+
+Customers in the second library:
+Name: Ismail Celik, Birth Date: 1986, Birth Place: Antalya
+Address: 18 Green Brier Blv.
+Name: Selin Ergul, Birth Date: 1987, Birth Place: -
+Address: -
+
+Borrowing The Lord of the Rings by Ayse Caliskan from the first library:
+Ayse Caliskan successfully borrowed The Lord of the Rings.
+
+Borrowing The Lord of the Rings by Mehmet Ari from the first library:
+Mehmet Ari successfully borrowed The Lord of the Rings.
+
+Borrowing The Lord of the Rings by Ela Kara from the first library:
+Sorry, this book is already borrowed
+
+Borrowing Le Petit Prince by Ayse Caliskan from the first library
+Sorry, Ayse Caliskan already borrowed a book
+
+Borrowing A Tale of Two Cities by Emre Kiraz from the first library:
+Sorry, Emre Kiraz is not a customer
+
+Borrowing Angels and Demons by Selin Ergul from the first library:
+Sorry, this book is not in our catalog
+
+Borrowing Le Petit Prince by Ismail Celik from the second library:
+Sorry, this book is not in our catalog
+
+Books available in the first library:
+Book name is The Da Vinci Code, Author is Dan Brown
+Book name is Le Petit Prince, Author is Antoine de Saint-Exupery
+Book name is A Tale of Two Cities, Author is Charles Dickens
+Dictionary Name is Oxford Dictionary of English, definitions: 6000
+
+Books available in the second library:
+No book in catalog.
+
+Returning the book which is borrowed by Ayse Caliskan to the first library:
+Ayse Caliskan successfully returned The Lord of the Rings
+
+Returning the book which is borrowed by Ismail Celik to the second library:
+Sorry, Ismail Celik did not barrow a book
+
+Returning the book which is borrowed by Mehmet Ari to the second library:
+Sorry, Mehmet Ari is not a customer.
+
+Borrowing Le Petit Prince by Ayse Caliskan from the first library:
+Ayse Caliskan successfully borrowed Le Petit Prince.
+
+Borrowing Le Petit Prince by Selin Ergul from the second library:
+Sorry, this book is not in our catalog
+
+Borrowing The Lord of the Rings by Selin Ergul from the first library:
+Selin Ergul successfully borrowed The Lord of the Rings.
+
+Books available in the first library:
+Book name is The Da Vinci Code, Author is Dan Brown
+Book name is A Tale of Two Cities, Author is Charles Dickens
+Dictionary Name is Oxford Dictionary of English, definitions: 6000

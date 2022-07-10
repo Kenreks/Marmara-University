@@ -1,0 +1,4 @@
+((150119629 % 2 == 0) ? "even":"odd") >>> odd verir
+
+s = "CSE1141"
+s.substring(3,6) >>> 114
