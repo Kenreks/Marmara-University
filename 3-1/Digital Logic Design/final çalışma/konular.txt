@@ -1,0 +1,13 @@
+Register 
+
+RTL - HSML - FSM - X ve y average ceil 
+
+K-map 
+
+Counter 
+
+Binary - hex- decimal 
+
+Mhz ghz - clock 
+
+Decoder etc code
