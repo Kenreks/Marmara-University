@@ -1,0 +1,220 @@
+int main() diye kuruyoruz fonksiyonu galiba
+--------------------------------------------
+int a = 0;
+printf("%d sayıyı böyle bastırıyoz")
+--------------------------------------------
+int a;
+
+scanf("%d",&a);   >>> input alma
+
+printf("Sayim: %d", a);
+-------------------------------------------
+değişken tanımlama sıfatları javayla aynı >>> int char float double...
+
+printf(sizeof(char)); >>> kullanılan char ın bellekte tuttuğu alanı bastırır
+-------------------------------------------
+not alma şekli aynı >>> /* bu şekilde */
+full satır için >>> //
+
+işlem, karşılaştırma ve if-else operatörleri javayla aynı
+
+ve (&&), ya da(||) operatörleri aynı
+
+while ve for döngüleri aynı
+-------------------------------------------
+int tanımlayıp string verince ASCI tablosundaki karşılığını verir
+-------------------------------------------
+int day=2;
+switch(day) {
+case 1:printf("Pazartesi");
+break;
+case 2:printf("Salı");
+break;
+case 3:printf("Çarşamba");
+break
+default :printf("Geçersiz gün");
+break;
+}
+çıktı: Salı
+
+ÖNEMLİ NOT: bazen case den sonra char yazarken " " kullanmak yerine ' ' kullancaksın dikkat et.
+
+%.2f demek virgülden sonra 2 basamak göster demek
+------------------------------------------
+integer dizi oluşturma >>> int dizi[5]={1,3,5,7,9}  >>> eleman bastırma şekli javayla aynı
+
+int farklidizi[3][2]={{1,2},{3,4},{5,6}};
+
+printf("%d", farklidizi[0][1]); >>> 2
+
+NOT: dizi oluştururken elemanları tek tek girmek istiyorsak en sona '\0' eklemek zorundayız.
+
+import yerine #define deneme 5 yazarsan, programda deneme yazdığın yer 5 olarak sayılır
+
+strlen char dizisinin uzunluğunu almak için kullanılan method >>> strlen(farklidizi)
+sizeof(farklidizi) yazarsan 4 verir çünkü her dizinin sonunda görünmeyen \0 vardır.
+
+strcmp iki dizideki karakterlerin ASCI kodunu karşılaştırır ve büyükse 1 verir >>> sonuc=strcmp(deneme1,deneme2) >>> 1 bastırırsa deneme1 deneme2den büyüktür değer olarak
+strncmp yazarsan da deneme2den sonra yazacağın sayı indexi kadar ilerler
+
+char ben[]="Adim Kerem";
+char ben1[100]=""; >>> burdaki 100 max karakter sayısı
+strcpy(ben1,ben);
+printf("%s", ben1); >>> Adim Kerem       >>> strcpy kopyalar  >>> strncpy de belli bir yere kadar kopyalar
+
+char bos[100];
+strcpy(bos, "Benim");
+strcat(bos, " adim");
+strcat(bos, " Kerem");
+printf("%s", bos);  >>> Benim adim Kerem >>> strcat diziye ekleme yapar >>> strncat de belli bi yere kadar ekler
+
+gets(bos);  >>> scanf gibi ama biraz farklı. aradaki boşlukları da alıyormuş.
+char dizisi tanımlayıp input alacağın zaman gets(chardizisi) kullan.
+
+char dizi1[]="bonne";
+char dizi2[]="soirex";
+char sonuc[100]="";
+strcpy(sonuc, dizi1);
+strncpy(sonuc+3, dizi2, 5);
+printf("%s", sonuc);
+-----------------------------------------------------------------------------
+strlen tarzı şeyleri kullanabilmek için <string.h> include etmen gerekir. ayrıca çoğu programda <stdlib.h> include etmeyi de unutma.
+
+bi for döngüsünde dizi kullanıyorsak ve sonuna kadar bakıp durmasını istiyorsak ortadaki koşula tab[i] != '\0' yazarız. bu sıfırlı ifade son eleman anlamına gelir.
+
+dizi[i] = rand()%100 demek 0 dan 100 e kadar olan sayıları rastgele koymak. (bunu kullanmadan önce srand(time(0))
+
+char can[100] = "canan";
+char *p;
+p = can;
+printf("%c", p); >>> can dizisinin ilk elemanına eşittir yani c
+eğer printlerken p+4 yazarsan dizinin 5. elemanını yani n yi bastırır
+------------------------------------------------------------------------------
+struct sehir {
+char sehir_adi[20];
+int sicaklik;
+};
+struct sehir turkiye[82];
+
+struct içinde struct tanımlayabilirsin.
+
+struct ogrenci {
+char ad[10];
+char soyad[10];
+int yas;
+};
+
+struct ogrenci kerem = {"Kerem", "Mican", 19}  >>> değişken değişme
+
+üstteki atamayı strcpy kullanarak da yapailiriz >>> strcpy(kerem.ad, "Kerem"); gibi...
+
+struct ın başına typedef yazıp son ;'den önce Kerem yazarsam o struct ımı ifade eden şey Kerem olur ve daha sonra değişken ismi koyarken struct yazmama gerek kalmaz
+
+typedef struct {
+float x;
+float y;
+} nokta;
+
+int main() {
+nokta p;
+p.x = 3.15;
+p.y = 2.34;
+.....
+}
+
+nokta p[2] = {{3.15, 2.34}, {2.22, 6.46}, {8.34, 1.23}}; dizi şeklinde böyle tutabiliriz (pythondaki dict gibi düşün)
+-----------------------------------------------------------------
+enum istanbul {besiktas, sisli, beyoglu = 100, kadikoy}; 
+
+enum istanbul x = besiktas (yani esittir 0. sisli = 1, beyoglu = 100 ve kadikoy = 101)  içindeki değerler int dir.
+enumaration içinde aynı değere sahip farklı değişkenler olabilir ama aynı değişkenler olamaz.
+-----------------------------------------------------------------
+recursive fonksiyonlar kendine kendine tekrar çalışan fonklardır (pythonda if else yazıp fonksiyonu tekrar çalıştırmak gibi)
+
+fonk() {
+ printf("Selam");
+ fonk()
+}
+------------------------------------------------------------------
+FILE *dosya şeklinde tanımlanır. FILE yapısı file pointer olarak adlandırılır.
+
+FILE *dosya;
+dosya = fopen(const char dosya_adi, const char mod);   >>> dosya=fopen("kerem.txt", "w"); gibi...
+
+fclose(dosya);  >>> işin bittikten sonra kapa
+
+r >> readonly read yapmak için önceden açılmış olması lazım
+w >> writeonly sadece yazmak için dosya her seferinde yeniden oluşturulur
+a >> append eklemek. kayıtlı dosyanın sonuna veri eklemek için kullanılır
+r+ >> okuma ve yazma
+w+ >> okuma ve yazma
+a+ >> okuma ve yazma artısız hallerinden tek farkı okuma ve yazma eklenir.
+
+fgetc() >>> dosyaya bir karakter veri okur
+fgets() >>> bir karakter dizi okur    >>> 3 tane argument koyulur >>> fgets(line, sizeof(line), file) gibi >>> line char array.
+fread() >>> bir kayıt dizi veya karakteri ikili olarak okur
+fscanf() >>> dosyadaki verileri biçimlendirerek okur
+feof() >>> Dosyanın sonunun belirlenmesi
+
+FILE *dosya;
+while (!feof(dosya)) {
+	fgetc(dosya);         dosyanın sonuna gelmediği sürece karakter okur
+}
+
+fputs() >>> dosyaya bir karakter dizisi kaydeder
+fprintf() >>> dosyaya biçimlendirilmiş veri kaydetmek için kullanılır  fprintf(dosyaismi, printlenecekşey);
+
+dosyanın boş olup olmadığını denetlemek için dosya != NULL kullan
+
+son karaktere kadar basmak için karakter != EOF
+---------------------------------------------------------------
+linked listler node (boğum) adı verilen parçalardan oluşur
+
+Tek yönlü, çift yönlü ve dairesel olarak 3 e ayrılır.
+
+Tek yönlü >>> 2 değişken >> veri, pointer
+Çift yönlü >>> 3 değişken >> veri, kendinden önceki ve sonraki düğüm için pointer
+Dairesel >>> tek ve çift yönlü listelerin son node ları ilk node a bağlanırsa dairesel bir liste oluşur
+
+Head >>> listenin ilk elemanı pointerı
+Tail >>> listenin son elemanı pointer
+
+yeni düğüm oluşturma >>> head = new struct node();
+düğüme veri ekleme >>> head->data = key;
+listeye tek elaman eklediğimiz için tail = head yapıyoruz ve hiç elemanı olmayan bir listeye 1 eleman eklemiş olduk
+
+listede başka elemanlar varsa
+struct node* temp = new struct;
+node;
+temp-> data = key;
+temp düğümü oluşturduk ve bunu ilk elemana bağlamalıyız >>> temp->next = head;
+head = temp; >>> dersek eklediğimiz düğüm listenin başına geçiyor
+
+tail->next = temp; dersek tail yani son elemandan sonrasına eleman ekleriz ve tail=temp yapmamız gerekir çünkü artık son eleman temp
+
+İLK ELEMANI SİLME: (ilk düğümü direkt silersek listeye bir daha ulaşamayız
+struct node* new_head = temp->next;
+delete head;
+head = new_head;
+
+liste içinden aradığımız şeyi bulup sileceksek döngü yapmalıyız (eğer direkt silersek düğümlerin bağı kopar ve aradığımız düğümden sonrasına bir daha ulaşamayız o yüzden 38 ve 40 arasında bir bağ kuruyoruz)
+while (temp->data != key && temp != NULL) {
+	prev = temp;
+	temp = temp ->next;
+}
+yukarda sileceğimiz düğümü ve ondan önceki düğümü bulduk
+
+38 ve 40 arasında bağ kurma >>> prev->next = temp->next
+artık düğümü silebiliriz >>> delete temp->next;
+
+VERİ YAZDIRMA:
+
+pointer oluştur >>> struct node* temp = head;
+
+while (temp != NULL) {
+	std::cout << temp-> data << std::end1;
+	temp = temp->next
+}
+
+week 7 slaytlarına bak
+--------------------------------------------------------------
