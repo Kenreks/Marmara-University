@@ -1,0 +1,3 @@
+In the enginering design process, engineers apply matheatics and scieces such as physics to find novel solutions to prolems or to improve existing soltions. More than ever, engieers are now required to have a proficient knowedge of relevant sciences for their design projects. As a result, many engieers continue to learn new material throuhout their career.
+
+If multiple solutions exist, engineers weight each design choice based on their merit and choose the soltion that best matches the requrements. The crucial and unique task of the engineer is to identify, understand, and interperet the constrants on a design in order to yeield a succesful result. It is generally insuficient to build a technically succesful product, rather, it must also meet further requrements.
