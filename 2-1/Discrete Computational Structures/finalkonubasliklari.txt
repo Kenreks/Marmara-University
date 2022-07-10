@@ -1,0 +1,37 @@
+chp4 >>
+4.4 solving congruences 27-... OK
+4.5 applications of congruences OK
+4.6 cryptography OK
+
+chp5 >>
+5.1 mathematical induction ...-32  OK
+
+chp6 >>
+6.1 the basics of counting 139-179? OK
+6.2 the pigeon hole principle  173-174-175 OK
+6.3 permutations and combinations 140-151 OK
+
+chp8 >>
+8.2 solving linear recurrence relations (mostly covered from his notes) 185 OK
+
+chp9 >>
+9.1 relations and their properties 76... OK
+9.3 representing relations OK
+9.5 equivalence relations ...89 OK
+
+chp10 >>
+10.1 graphs and graph models 200-... OK
+10.2 graph terminology and special types of graphs OK
+10.3 representing graphs and graph isomorphism OK
+10.4 connectivity OK
+10.5 euler and hamiltonian graphs OK
+
+chp11 >>
+11.1 introduction to trees OK
+11.4 spanning trees OK
+11.5 ? ...-211
+
+also
+all of chp1
+2.1 2.2 2.3 2.5 from chp2
+and 4.1 4.3 from chp4 may be asked indirectly
