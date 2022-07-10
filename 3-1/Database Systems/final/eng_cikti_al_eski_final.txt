@@ -1,0 +1,46 @@
+2012-2013 Database Finali
+6 sayfa soru sordu.
+
+
+ilk iki soru, mapping. tablolar var, subtype supertype'a sahip. biri d'le biri o'yla. bi tane de many to many relationship var,
+onlarý map ediyosun.
+22 puan bu
+
+
+sorgu yazmaný istedi, 3 þýk halinde. student department courses enrollment tablolarý
+
+ilk soru, 250'den fazla öðrenciye sahip olan bölümlerin max gpa'si, bi de dept no'su.
+
+atýyom
+100 numaralý departman'da en yüksek ortalama 3.50
+101 'de 3.40
+
+100 ve 100 nolu departmanlar 250'den fazla öðrenciye sahipler
+
+ikinci soru
+erkek sayýsý kýz sayýsýndan fazla ölen bölümleri ve isimlerini bul. bak bu mühendislik fakültesi için çok iyi biþey,
+kýz sayýlarýný dengelemek için bölümler arasý kýz yatay geçiþi saðlanýyo.
+
+üçüncü soru
+5ten az ders almýþ öðrencileri sil. cascade rule geçerli diyebilirsin, foreign key'leri takmýcan.
+
+ayný sorunun 4 ve 5. þýklarý var, biri procedure biri trigger
+
+parametre olarak verilen öðrencinin gpa'ini set eden bi proc. eðer öðrenci yoksa hata verip döncek, eðer aldýðý ders yoksa, aldýðý
+ders yok diyip döncek. raiserror sorusu, eðer iki testten de geçerse gpa'i set etçek. derste anlatýyo gpa nasý set edilir.
+
+trigger sorusu. student tablosuna öðrenci eklenir, çýkarýlýr veya update edilirse çalýþan bi trigger olcak. dolayýsýyla ON STUDent,
+diceksin. bu iþlemler sonucu, eðer insert olmuþsa department'taki noOfStudents attribute'unu arttýrcan falan.
+
+diðer soru
+bi sürü terim vermiþ, 3ünü seç kýsaca açýkla diye.
+anomalies& 2nf& denormalization , XML, partitioning, clustered& non clustered index, SOA falan slayt konularý
+
+diðer soru þöyle
+lab sunumlarýndan(hoca sonradan ekledi onu) index 'in nasý çalýþtýðýna bakman lazým.
+
+page'ler vermiþ demiþ ki bu tablo SID 'e göre clustered indexlenmiþ, aha bu da hali, 3 tane þýk vermiþ sorgular var.
+bu sorgu çalýþýrken hangi page'lere eriþçek diye soruyo. clustered index sütununda bi arama varsa(where sid=...) direk yolu takip ediyosun.
+where'de baþka biþey varsa, bütün page'lere eriþiyo.(emin deðilim)
+
+ikinci soruda da aynýsý, sadece nonclustered var, ona göre düþünüyon. yine page'ler var, bazýlarý data page bazýlarý index page. lab örneðine bakarsýn.

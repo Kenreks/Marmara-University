@@ -1,0 +1,6 @@
+▪︎Normalization-Denormalization - tamam
+▪︎Indexing - tamam
+▪︎Stored Procedures - tamam
+▪︎Triggers - tamam
+▪︎Basic SQL Queries - tamam?
+▪︎Database Recovery - tamam
