@@ -1,0 +1,9 @@
+encapsulation (her yerde private kullanarak getter setter)
+
+association entity relationship
+
+modularity
+
+abstract classes
+
+dynamic ploymorphism

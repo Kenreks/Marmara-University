@@ -1,0 +1,25 @@
+-page and frame replacement algorithms -TAMAM
+
+-banker's algorithm - TAMAM
+
+-Deadlock
+
+-Page table - TAMAM ?
+
+-Effective access time - TAMAM (FORMÜLE BAK KESİN ÇIKACAK)
+
+-Schedule 
+
+-2-3 level paging - TAMAM
+
+-lab soruları - yok bakamam amk
+
+
+
+6. chaptera hızlı bak geç, ondan sonrakilere ağırlık ver
+
+hint: Study the page replacement algorithms that I have discussed in the last week of the lectures.
+
+WEEK 8'DEN İTİBAREN
+
+YENİ SLAYTLAR CH5'TEN İTİBAREN
