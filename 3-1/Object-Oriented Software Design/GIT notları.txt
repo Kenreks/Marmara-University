@@ -1,0 +1,25 @@
+Repositoryden kod kopyalama: git clone adrest.git
+
+Klonladıktan sonra projenin içine girme: 1. cd projeadı 2. ls (dosyaları görme)
+
+Branch değiştirme: git checkout -b branchismi
+
+Branchdeki kodu açma: code .
+
+Durum bilgisi alma, check etme: git status 
+
+Değişiklik yaptıktan sonra branchi localde updateleme: 1. git add -A 2. git commit -a "mesaj"
+
+Değişikliği GitHub'a gönderme: git push -u origin branchismi
+
+Değişiklikleri çekmei locali updateleme: git pull origin master ya da git pull
+
+Branch silme: git branch -D branchismi
+
+
+
+-A = add -D = delete -u = update -m = message
+
+
+
+
