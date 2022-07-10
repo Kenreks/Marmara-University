@@ -1,0 +1,8 @@
+-uml class diagram, uml sequence diagram (istersen domain class system sequence diagram çalış)
+
+-python ve java projesinde göz gezdir
+
+-python pdflerini çalış
+
+-Monopoly diagram örneklerine bak
+

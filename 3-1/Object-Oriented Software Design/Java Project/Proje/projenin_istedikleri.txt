@@ -1,0 +1,24 @@
+-Bizim okulun müfredatından dersler oluşturulacak. Bu derslerin şartları olacak (3. Dönemden itibaren).
+
+-Bunları denemek için random olarak öğrenci oluşturacağız. Bu öğrencilerin her birinin 8 dönemden birinde olma ihtimali aynı olacak. Yani %12.5.
+
+-Spesifik bi semestar'da bulunan random bir öğrenci için o döneme kadar olan müfredat derslerinden random olarak faillediği dersleri seçeceğiz.
+
+-Bu öğrencileri ve onların transkriptlerini .json dosyasında tek tek depolayacağız.
+
+-In order to simulate course registration process you will either choose a randomly selected student or the json file name of a student. bunun anlamı ne
+
+-Öğrencinin aldığı dersleri listeleme fonksyionu ekleyeceğiz.
+
+-Ayrıca bir öğrencinin okul başından mezuniyete kadar tüm kayıt olma processini hem ekrana yazdırma hem de .json file'a yazdırma olayı olacak.
+
+-Simüle etmek istediğimiz dönem inputtan parametre olarak alınacak. dosyanın ismi INPUT.JSON gibi bi şey olacak. Input dosyasının içinde müfredat, kurslar vb de olacak.
+Ve bunların kotası da içinde bulunacak. Ayrıca "öğrenci bu derse kaydolamadı" gibi loglar da bulunacak.
+
+-İlk iterasyonda random öğrenci oluşlturup, notlarıyla birlikte transkriptini json dosyasına koyacağız.
+
+-Department outputu olarak da başka bir json file oluşturucaz ve bunun içinde "45 STUDENTS COULDN'T REGISTER FOR CSE2025 DUE TO THE QUOTA PROBLEMS" gibi sorunlar olacak.
+
+-Her rundan sonra farklı output görmek zorunlu.
+
+-Ders programındaki saatler çakışırsa alınamayacak.

@@ -1,0 +1,11 @@
+composition (içerme) -> car-engine 
+
+aggregation (birleşme) -> taxi-driver
+
+association (çağrışım) -> taxi-customer(client) 
+
+one-to-one, one-to-many, many-to-many association
+aggregations
+compositions
+
+inheritance -> is-a, composition -> has a

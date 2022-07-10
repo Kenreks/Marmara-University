@@ -1,0 +1,3390 @@
+{
+
+    "1": [
+        {
+            "courseId": "ATA121",
+            "courseName": "Atatürk İlkeleri ve İnkılap Tarihi I",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "HÜLYA ÖZLER",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Saturday",
+            	"Start":"15:00",
+            	"End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MBG1201",
+            "courseName": "Introduction to Modern Biology",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "BESTE TURANLI",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Thursday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE1200",
+            "courseName": "Introduction to Computer Engineering",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "FATMA ÇORUT ERGİN",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE1241",
+            "courseName": "Computer Programming I",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "SANEM ARSLAN YILMAZ",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Wednesday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"11:00",
+            	"End":"12:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MATH1001",
+            "courseName": "Calculus I",
+            "Type": "Must",
+            "T": "4",
+            "U": "0",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "MUSTAFA TAYLAN ŞENGÜL",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            }
+            ]
+        },
+        {
+            "courseId": "PHYS1101",
+            "courseName": "Physics I",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "MUSTAFA ALEVLİ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"15:00",
+            	"End":"15:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "PHYS1103",
+            "courseName": "Physics Lab I",
+            "Type": "Must",
+            "T": "0",
+            "U": "2",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "HÜSEYİN YALTIRIK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"17:00",
+            	"End":"18:50"
+            }
+            ]
+        },
+        {
+            "courseId": "TRD121",
+            "courseName": "Türk Dili I",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "YASEMİN BULUT",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Saturday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            }
+            ]
+        }
+    ],
+
+
+    "2": [
+        {
+            "courseId": "ATA122",
+            "courseName": "Atatürk İlkeleri ve İnkılap Tarihi II",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "HÜLYA ÖZLER",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Sunday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE1242",
+            "courseName": "Computer Programming II",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "SANEM ARSLAN YILMAZ",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Wednesday",
+            	"Start":"15:00",
+            	"End":"16:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"11:00",
+            	"End":"12:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MATH1002",
+            "courseName": "Calculus II",
+            "Type": "Must",
+            "T": "4",
+            "U": "0",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "MUSTAFA CEM ÇELİK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MATH2256",
+            "courseName": "Linear Algebra for Computer Engineering",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA TAYLAN ŞENGÜL",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"10:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "PHYS1102",
+            "courseName": "Physics II",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "MUSTAFA ALEVLİ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Thursday",
+            	"Start":"14:00",
+            	"End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "PHYS1104",
+            "courseName": "Physics Lab II",
+            "Type": "Must",
+            "T": "0",
+            "U": "2",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "HÜSEYİN YALTIRIK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "TRD122",
+            "courseName": "Türk Dili II",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "YASEMİN BULUT",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Saturday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            }
+            ]
+        },
+        {
+            "courseId": "NTExxx",
+            "courseName": "Non-Technical Elective - 1",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        }
+    ],
+
+
+    "3": [
+        {
+            "courseId": "CSE2023",
+            "courseName": "Discrete Computational Structures",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "ALİ ALKAYA",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"12:00",
+            	"End":"13:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"13:00",
+            	"End":"13:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE2225",
+            "courseName": "Data Structures",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "MUSTAFA BORAHAN TÜMER",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Friday",
+            	"Start":"15:00",
+            	"End":"15:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"14:00",
+            	"End":"14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "ECON2004",
+            "courseName": "Engineering Economy",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "ARİF SÖYLEMEZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"17:00",
+            	"End":"18:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"17:00",
+            	"End":"17:50"
+            }
+            ]
+        },
+        {
+            "courseId": "EE2031",
+            "courseName": "Electric Circuits",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "FULYA ÇALLIALP",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"13:00",
+            	"End":"13:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"14:00",
+            	"End":"14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MATH2055",
+            "courseName": "Differential Equations",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Thursday",
+            	"Start":"16:00",
+            	"End":"17:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"16:00",
+            	"End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MATH2059",
+            "courseName": "Numerical Methods",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "ÇİĞDEM EROĞLU ERDEM",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"15:00",
+            	"End":"16:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"15:00",
+            	"End":"15:50"
+            }
+            ]
+        }
+    ],
+
+
+    "4": [
+        {
+            "courseId": "CSE2246",
+            "courseName": "Analysis of Algorithms",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "ÖMER KORÇAK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Thursday",
+            	"Start":"13:00",
+            	"End":"13:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE2138",
+            "courseName": "Systems Programming",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "FATMA ÇORUT ERGİN",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Wednesday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"13:00",
+            	"End":"13:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE2260",
+            "courseName": "Principles of Programming Languages",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "ÇİĞDEM EROĞLU ERDEM",
+            "Capacity": "0",
+            "Schedule":[
+			{
+            	"Day":"Monday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            }
+			]
+        },
+        {
+            "courseId": "EE2032",
+            "courseName": "Electronics",
+            "Type": "Must",
+            "T": "2",
+            "U": "2",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "AHMET UNUTULMAZ",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Thursday",
+            	"Start":"17:00",
+            	"End":"18:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "STAT2253",
+            "courseName": "Introduction to Probability and Statistics",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MÜJDAT SOYTÜRK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"16:00",
+            	"End":"16:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"14:00",
+            	"End":"15:50"
+            }
+            ]
+        }
+    ],
+
+
+    "5": [
+        {
+            "courseId": "CSE3000",
+            "courseName": "Summer Practice I",
+            "Type": "Must",
+            "T": "0",
+            "U": "0",
+            "Credit": "10",
+            "ECTS": "10",
+            "Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "0",
+            "Schedule":[
+              {
+                "Day": "Sunday",
+                "Start": "12:00",
+                "End": "12:30"
+              }
+            ]
+        },
+        {
+            "courseId": "CSE3215",
+            "courseName": "Digital Logic Design",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3033",
+            "courseName": "Operating Systems",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "ALİ HAYDAR ÖZER",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Tuesday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3055",
+            "courseName": "Database Systems",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "MUSTAFA AĞAOĞLU",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Wednesday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3063",
+            "courseName": "Object-Oriented Software Design",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MURAT CAN GANİZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "IE3081",
+            "courseName": "Modeling and Discrete Simulation",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "MÜJDAT SOYTÜRK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Thursday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            }
+            ]
+        }
+    ],
+
+
+    "6": [
+        {
+            "courseId": "CSE3038",
+            "courseName": "Computer Organization",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "HALUK RAHMİ TOPÇUOĞLU",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Friday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"10:00",
+            	"End":"11:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"11:00",
+            	"End":"11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3044",
+            "courseName": "Software Engineering",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "7",
+            "ECTS": "7",
+            "Instructor": "MUSTAFA BORAHAN TÜMER",
+            "Capacity": "0",
+            "Lab":{
+            	"Day":"Tuesday",
+            	"Start":"16:00",
+            	"End":"17:50"
+            },
+            "Schedule": [
+            {
+            	"Day":"Wednesday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3048",
+            "courseName": "Introduction to Signals and Systems",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MEHMET BARAN",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"11:00",
+            	"End":"12:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"12:00",
+            	"End":"12:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE3264",
+            "courseName": "Formal Languages and Automata Theory",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ALİ HAYDAR ÖZER",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"11:00",
+            	"End":"12:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"09:00",
+            	"End":"09:50"
+            }
+            ]
+        },
+        {
+            "courseId": "IE3235",
+            "courseName": "Operations Research",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "4",
+            "ECTS": "4",
+            "Instructor": "ALİ ALKAYA",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Monday",
+            	"Start":"09:00",
+            	"End":"10:50"
+            },
+            {
+            	"Day":"Tuesday",
+            	"Start":"10:00",
+            	"End":"10:50"
+            }
+            ]
+        },
+        {
+            "courseId": "COM2202",
+            "courseName": "Technical Comm. and Entrepreneurship",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "HANDE SİNEM ERGÜN",
+            "Capacity": "0",
+            "Schedule":[
+			{
+            	"Day":"Wednesday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            }
+			]
+        }
+    ],
+
+
+    "7": [
+        {
+            "courseId": "CSE4000",
+            "courseName": "Summer Practice II",
+            "Type": "Must",
+            "T": "0",
+            "U": "0",
+            "Credit": "10",
+            "ECTS": "10",
+            "Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "0",
+            "Schedule":[
+              {
+                "Day": "Sunday",
+                "Start": "13:00",
+                "End": "13:30"
+              }
+            ]
+        },
+        {
+            "courseId": "CSE4074",
+            "courseName": "Computer Networks",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ÖMER KORÇAK",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"16:00",
+            	"End":"17:50"
+            },
+            {
+            	"Day":"Thursday",
+            	"Start":"15:00",
+            	"End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4219",
+            "courseName": "Principles of Embedded System Design",
+            "Type": "Must",
+            "T": "3",
+            "U": "2",
+            "Credit": "6",
+            "ECTS": "6",
+            "Instructor": "ÖMER KORÇAK",
+            "Capacity": "0",
+            "Schedule":[
+			{
+            	"Day":"Monday",
+            	"Start":"16:00",
+            	"End":"17:50"
+            },
+            {
+            	"Day":"Wednesday",
+            	"Start":"17:00",
+            	"End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4297",
+            "courseName": "Engineering Project I",
+            "Type": "Must",
+            "T": "0",
+            "U": "2",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "0",
+            "Schedule":[
+              {
+                "Day": "Sunday",
+                "Start": "14:00",
+                "End": "14:30"
+              }
+            ]
+        },
+        {
+            "courseId": "ISG121",
+            "courseName": "İş Sağlığı ve Güvenliği I",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Saturday",
+            	"Start":"19:00",
+            	"End":"20:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4288",
+            "courseName": "Introduction to Machine Learning",
+            "Type": "Must",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ÇİĞDEM EROĞLU ERDEM",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Tuesday",
+            	"Start":"13:00",
+            	"End":"14:50"
+            },
+            {
+            	"Day":"Friday",
+            	"Start":"16:00",
+            	"End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "UE",
+            "courseName": "University Elective",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        },
+        {
+            "courseId": "TExxx",
+            "courseName": "Technical Elective - 1",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        }
+    ],
+
+
+    "8": [
+        {
+            "courseId": "CSE4298",
+            "courseName": "Engineering Project II",
+            "Type": "Must",
+            "T": "0",
+            "U": "2",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "0",
+            "Schedule":[
+              {
+                "Day": "Sunday",
+                "Start": "15:00",
+                "End": "15:30"
+              }
+            ]
+        },
+        {
+            "courseId": "ISG122",
+            "courseName": "İş Sağlığı ve Güvenliği II",
+            "Type": "Must",
+            "T": "2",
+            "U": "0",
+            "Credit": "2",
+            "ECTS": "2",
+            "Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "0",
+            "Schedule": [
+            {
+            	"Day":"Saturday",
+            	"Start":"17:00",
+            	"End":"18:50"
+            }
+            ]
+        },
+        {
+            "courseId": "FTExxx",
+            "courseName": "Faculty Technical Electives",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        },
+        {
+            "courseId": "NTExxx",
+            "courseName": "Non-Technical Elective - 2",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        },
+        {
+            "courseId": "TExxx",
+            "courseName": "Technical Elective - 2",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        },
+        {
+            "courseId": "TExxx",
+            "courseName": "Technical Elective - 3",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        },
+        {
+            "courseId": "TExxx",
+            "courseName": "Technical Elective - 4",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "",
+            "Capacity": "0",
+            "Schedule":[]
+        }
+    ],
+
+
+    "(TE)Technical Elective Courses": [
+        {
+            "courseId": "CSE4026",
+            "courseName": "Introduction to Robotics and Control Theory",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MEHMET BARAN",
+            "Capacity": "40",
+            "Semester":"Spring",
+            "Schedule": [
+            {
+            	"Day": "Monday",
+            	"Start": "17:00",
+            	"End": "17:50"
+            },
+            {
+            	"Day": "Thursday",
+            	"Start": "16:00",
+            	"End": "17:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4032",
+            "courseName": "Introduction to Distributed Systems",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "AHMET UNUTULMAZ",
+            "Capacity": "55",
+            "Semester":"Fall",
+            "Schedule":[
+            {
+            	"Day": "Monday",
+            	"Start": "09:00",
+            	"End": "09:50"
+            },
+            {
+            	"Day": "Tuesday",
+            	"Start": "10:00",
+            	"End": "11:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4034",
+            "courseName": "Advanced Unix Programming",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "SANEM ARSLAN YILMAZ",
+            "Capacity": "45",
+            "Semester":"Spring",
+            "Schedule": [
+            {
+            	"Day": "Tuesday",
+            	"Start": "09:00",
+            	"End": "09:50"
+            },
+            {
+            	"Day": "Wednesday",
+            	"Start": "13:00",
+            	"End": "14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4038",
+            "courseName": "Introduction to Parallel Processing",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "GÖKHAN BORA ESMER",
+            "Capacity": "40",
+            "Semester": "Fall",
+            "Schedule": [
+            {
+            	"Day": "Tuesday",
+            	"Start": "13:00",
+            	"End": "14:50"
+            },
+            {
+            	"Day": "Thursday",
+            	"Start": "17:00",
+            	"End": "17:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4040",
+            "courseName": "Cloud Computing",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA TAYLAN ŞENGÜL",
+            "Capacity": "45",
+            "Semester": "Fall",
+            "Schedule": [
+			{
+            	"Day": "Tuesday",
+            	"Start": "13:00",
+            	"End": "14:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "09:00",
+            	"End": "09:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4044",
+            "courseName": "Software Project Management",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MEHMET BARAN",
+            "Capacity": "50",
+            "Semester": "Fall",
+            "Schedule": [
+			{
+            	"Day": "Wednesday",
+            	"Start": "18:00",
+            	"End": "19:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "10:00",
+            	"End": "10:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4053",
+            "courseName": "Information Systems: Analysis and Design",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA AĞAOĞLU",
+            "Capacity": "45",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Wednesday",
+            	"Start": "15:00",
+            	"End": "16:50"
+            },
+            {
+            	"Day": "Thursday",
+            	"Start": "11:00",
+            	"End": "11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4056",
+            "courseName": "Management of Information Systems",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MURAT CAN GANİZ",
+            "Capacity": "46",
+            "Semester": "Fall",
+            "Schedule": [
+			{
+            	"Day": "Wednesday",
+            	"Start": "16:00",
+            	"End": "17:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "10:00",
+            	"End": "11:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4057",
+            "courseName": "Information Systems Security",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ÖMER KORÇAK",
+            "Capacity": "48",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Thursday",
+            	"Start": "14:00",
+            	"End": "15:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "16:00",
+            	"End": "16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4058",
+            "courseName": "Fundamentals of Electronic Commerce",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MÜJDAT SOYTÜRK",
+            "Capacity": "41",
+            "Semester":"Spring",
+            "Schedule": [
+			{
+            	"Day": "Wednesday",
+            	"Start": "14:00",
+            	"End": "15:50"
+            },
+            {
+            	"Day": "Saturday",
+            	"Start": "09:00",
+            	"End": "09:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4059",
+            "courseName": "Internet Programming",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "HALUK RAHMİ TOPÇUOĞLU",
+            "Capacity": "62",
+            "Semester":"Spring",
+            "Schedule": [
+			{
+            	"Day": "Monday",
+            	"Start": "11:00",
+            	"End": "11:50"
+            },
+            {
+            	"Day": "Tuesday",
+            	"Start": "09:00",
+            	"End": "10:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4061",
+            "courseName": "Compiler Design",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "47",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Monday",
+            	"Start": "13:00",
+            	"End": "13:50"
+            },
+            {
+            	"Day": "Tuesday",
+            	"Start": "14:00",
+            	"End": "15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4062",
+            "courseName": "Introduction to Data Science and Analytics",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MURAT CAN GANİZ",
+            "Capacity": "68",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Tuesday",
+            	"Start": "11:00",
+            	"End": "11:50"
+            },
+            {
+            	"Day": "Wednesday",
+            	"Start": "10:00",
+            	"End": "11:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4063",
+            "courseName": "Fundamentals of Data Mining",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA AĞAOĞLU",
+            "Capacity": "55",
+            "Semester": "Fall",
+            "Schedule": [
+            {
+            	"Day": "Tuesday",
+            	"Start": "12:00",
+            	"End": "12:50"
+            },
+            {
+            	"Day": "Thursday",
+            	"Start": "12:00",
+            	"End": "13:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4065",
+            "courseName": "Introduction to Computational Genomics",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "57",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Monday",
+            	"Start": "14:00",
+            	"End": "15:50"
+            },
+            {
+            	"Day": "Tuesday",
+            	"Start": "13:00",
+            	"End": "13:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4066",
+            "courseName": "Introduction to Cryptography",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA BORAHAN TÜMER",
+            "Capacity": "52",
+            "Semester":"Fall",
+            "Schedule": [
+			{
+            	"Day": "Monday",
+            	"Start": "09:00",
+            	"End": "10:50"
+            },
+            {
+            	"Day": "Wednesday",
+            	"Start": "16:00",
+            	"End": "16:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4067",
+            "courseName": "Introduction to Blockchain Programming",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ARİF SÖYLEMEZ",
+            "Capacity": "48",
+            "Semester":"Spring",
+            "Schedule": [
+			{
+            	"Day": "Monday",
+            	"Start": "09:00",
+            	"End": "10:50"
+            },
+            {
+            	"Day": "Tuesday",
+            	"Start": "13:00",
+            	"End": "13:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4070",
+            "courseName": "Software Frameworks",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MUSTAFA AĞAOĞLU",
+            "Capacity": "56",
+            "Semester":"Fall",
+            "Schedule":[
+			{
+            	"Day": "Monday",
+            	"Start": "10:00",
+            	"End": "10:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "15:00",
+            	"End": "16:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4075",
+            "courseName": "Wireless and Mobile Networks",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MÜJDAT SOYTÜRK",
+            "Capacity": "40",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+            	"Day": "Tuesday",
+            	"Start": "17:00",
+            	"End": "17:50"
+            },
+            {
+            	"Day": "Friday",
+            	"Start": "14:00",
+            	"End": "15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4082",
+            "courseName": "Artificial Intelligence",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "ALİ HAYDAR ÖZER",
+            "Capacity": "55",
+            "Semester": "Fall",
+            "Schedule": [
+            {
+            	"Day": "Monday",
+            	"Start": "13:00",
+            	"End": "13:50"
+            },
+            {
+            	"Day": "Wednesday",
+            	"Start": "13:00",
+            	"End": "14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CSE4083",
+            "courseName": "Computer Graphics",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+            "Instructor": "MEHMET BARAN",
+            "Capacity": "40",
+			"Semester": "Fall",
+			"Schedule": [
+			{
+				"Day": "Monday",
+				"Start": "11:00",
+				"End": "12:50"
+			},
+			{
+				"Day": "Tuesday",
+				"Start": "11:00",
+				"End": "11:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4084",
+            "courseName": "Multimedia Systems",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "ÇİĞDEM EROĞLU ERDEM",
+            "Capacity": "55",
+			"Semester": "Fall",
+			"Schedule": [
+			{
+				"Day": "Wednesday",
+				"Start": "12:00",
+				"End": "12:50"
+			},
+			{
+				"Day": "Friday",
+				"Start": "14:00",
+				"End": "15:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4085",
+            "courseName": "Human Computer Interaction",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MEHMET BARAN",
+            "Capacity": "60",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day": "Wednesday",
+				"Start": "09:00",
+				"End": "10:50"
+			},
+			{
+				"Day": "Friday",
+				"Start": "14:00",
+				"End": "14:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4086",
+            "courseName": "Mobile Device Programming",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "ALİ ALKAYA",
+            "Capacity": "55",
+			"Semester": "Fall",
+			"Schedule": [
+			{
+				"Day": "Monday",
+				"Start": "14:00",
+				"End": "14:50"
+			},
+			{
+				"Day": "Thursday",
+				"Start": "16:00",
+				"End": "17:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4217",
+            "courseName": "Microprocessors",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "ALİ HAYDAR ÖZER",
+            "Capacity": "40",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day": "Thursday",
+				"Start": "13:00",
+				"End": "13:50"
+			},
+			{
+				"Day": "Friday",
+				"Start": "15:00",
+				"End": "16:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4093",
+            "courseName": "Special Topics in Computer Engineering I",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MUSTAFA YILMAZ",
+            "Capacity": "50",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day": "Monday",
+				"Start": "10:00",
+				"End": "11:50"
+			},
+			{
+				"Day": "Friday",
+				"Start": "15:00",
+				"End": "15:50"
+			}
+
+			]
+        },
+        {
+            "courseId": "CSE4094",
+            "courseName": "Special Topics in Computer Engineering II",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "FATMA ÇORUT ERGİN",
+            "Capacity": "35",
+			"Semester": "Fall",
+			"Schedule": [
+			{
+				"Day": "Wednesday",
+				"Start": "15:00",
+				"End": "15:50"
+			},
+			{
+				"Day": "Thursday",
+				"Start": "10:00",
+				"End": "11:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4095",
+            "courseName": "Special Topics in Computer Engineering III",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MURAT CAN GANİZ",
+            "Capacity": "40",
+			"Semester": "Spring",
+			"Schedule": [
+			{
+				"Day": "Monday",
+				"Start": "9:00",
+				"End": "10:50"
+			},
+			{
+				"Day": "Tuesday",
+				"Start": "10:00",
+				"End": "11:50"
+			}
+			]
+        },
+        {
+            "courseId": "CSE4096",
+            "courseName": "Special Topics in Computer Engineering IV",
+            "Type": "TE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "BETÜL DEMİRÖZ BOZ",
+            "Capacity": "38",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day": "Wednesday",
+				"Start": "17:00",
+				"End": "18:50"
+			},
+			{
+				"Day": "Friday",
+				"Start": "10:00",
+				"End": "10:50"
+			}
+			]
+        }
+    ],
+
+
+    "(ENG-FTE) Faculty Technical Elective Courses": [
+        {
+            "courseId": "BIOE4072",
+            "courseName": "Planning and Management of Research",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "AHU UNCUOĞLU",
+			"Capacity": "144",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"13:00",
+              "End":"15:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CHE4060",
+            "courseName": "Cost Management in Chemical Industries",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "EMİN ARCA",
+            "Capacity": "60",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"18:00",
+              "End":"18:50"
+            },
+            {
+              "Day":"Tuesday",
+              "Start":"17:00",
+              "End":"18:50"
+            }
+            ]
+        },
+        {
+            "courseId": "CHE4068",
+            "courseName": "Financial Engineering",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "FULYA ÇALLIALP",
+			"Capacity": "80",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"13:00",
+              "End":"14:50"
+            },
+            {
+              "Day":"Wednesday",
+              "Start":"17:00",
+              "End":"17:50"
+            }
+			]
+        },
+        {
+            "courseId": "CHE4080",
+            "courseName": "Chemical Engineering for Sustainable Biosphere",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "BERRİN KURŞUN",
+			"Capacity": "71",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"17:00",
+              "End":"18:50"
+            },
+            {
+              "Day":"Tuesday",
+              "Start":"11:00",
+              "End":"11:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4044",
+            "courseName": "Software Project Management",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "BERRİN KURŞUN",
+			"Capacity": "90",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Wednesday",
+              "Start":"14:00",
+              "End":"13:50"
+            },
+            {
+              "Day":"Friday",
+              "Start":"18:00",
+              "End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "CSE4056",
+            "courseName": "Management of Information Systems",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "ŞAKİR BİNGÖL",
+			"Capacity": "80",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Wednesday",
+              "Start":"09:00",
+              "End":"10:50"
+            },
+            {
+              "Day":"Friday",
+              "Start":"18:00",
+              "End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "EE4056",
+            "courseName": "Introduction to Information Systems Management",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "ŞAKİR BİNGÖL",
+			"Capacity": "55",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"12:00",
+              "End":"13:50"
+            },
+            {
+              "Day":"Tuesday",
+              "Start":"11:00",
+              "End":"11:50"
+            }
+			]
+        },
+        {
+            "courseId": "EE4062",
+            "courseName": "Introduction to Image Processing",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "GÖKHAN BORA ESMER",
+			"Capacity": "77",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"16:00",
+              "End":"16:50"
+            },
+            {
+              "Day":"Wednesday",
+              "Start":"17:00",
+              "End":"18:50"
+            }
+            ]
+        },
+        {
+            "courseId": "ENVE4062",
+            "courseName": "Energy and the Environment",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "SIDDIK SİNAN KESKİN",
+			"Capacity": "62",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"13:00",
+              "End":"14:50"
+            },
+            {
+              "Day":"Friday",
+              "Start":"16:00",
+              "End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "ENVE4063",
+            "courseName": "Construction Materials for Environmental Engineering ",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "EREN YILDIZHAN GEYHAN",
+			"Capacity": "82",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"15:00",
+              "End":"16:50"
+            },
+            {
+              "Day":"Thursday",
+              "Start":"11:00",
+              "End":"11:50"
+            }
+			]
+        },
+        {
+            "courseId": "IE4055",
+            "courseName": "Design of Experiments",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "BERNA BALTA",
+			"Capacity": "80",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"15:00",
+              "End":"17:50"
+            }
+            ]
+        },
+        {
+            "courseId": "IE4087",
+            "courseName": "Introduction to Total Quality Management",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MAHMURE ARIOĞLU",
+			"Capacity": "76",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Tuesday",
+              "Start":"16:00",
+              "End":"17:50"
+            },
+            {
+              "Day":"Saturday",
+              "Start":"10:00",
+              "End":"10:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME3004",
+            "courseName": "Mathematical Modeling in Mechanical Engineering",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MUSTAFA ÖZDEMİR",
+			"Capacity": "60",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Wednesday",
+              "Start":"15:00",
+              "End":"16:50"
+            },
+            {
+              "Day":"Thursday",
+              "Start":"18:00",
+              "End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME3022",
+            "courseName": "Mechatronics",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "UĞUR TÜMERDEM",
+			"Capacity": "83",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"10:00",
+              "End":"10:50"
+            },
+            {
+              "Day":"Friday",
+              "Start":"17:00",
+              "End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME4018",
+            "courseName": "Introduction to Robotics",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "UĞUR TÜMERDEM",
+			"Capacity": "60",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Wednesday",
+              "Start":"14:00",
+              "End":"14:50"
+            },
+            {
+              "Day":"Thursday",
+              "Start":"11:00",
+              "End":"12:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME4022",
+            "courseName": "Control Systems",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "İBRAHİM KUYSERİ",
+			"Capacity": "50",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Wednesday",
+              "Start":"15:00",
+              "End":"15:50"
+            },
+            {
+              "Day":"Friday",
+              "Start":"10:00",
+              "End":"11:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME4033",
+            "courseName": "Designing Quality Products",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "İBRAHİM KUYSERİ",
+			"Capacity": "74",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"09:00",
+              "End":"10:50"
+            },
+            {
+              "Day":"Thursday",
+              "Start":"13:00",
+              "End":"13:50"
+            }
+			]
+        },
+        {
+            "courseId": "ME4051",
+            "courseName": "Automotive Engineering",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "NUREDDİN TÜRKAN",
+			"Capacity": "59",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Tuesday",
+              "Start":"09:00",
+              "End":"11:50"
+            }
+			]
+        },
+        {
+            "courseId": "MGT4076",
+            "courseName": "Quality Management System in Automotive Industry",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "NUREDDİN TÜRKAN",
+			"Capacity": "65",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Monday",
+              "Start":"16:00",
+              "End":"18:50"
+            }
+			]
+        },
+        {
+            "courseId": "MGT4082",
+            "courseName": "Advanced innovative Design Management for Entrepreneurship",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "BEYTULLAH GÜLTEKİN ÇETİNER",
+			"Capacity": "85",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Thursday",
+              "Start":"14:00",
+              "End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MGT4084",
+            "courseName": "Innovation and New Product Development Management",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "HÜLYA ASLANOĞLU",
+			"Capacity": "60",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Friday",
+              "Start":"14:00",
+              "End":"16:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MGT4086",
+            "courseName": "Managing Engineering and Technology",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "HÜLYA ASLANOĞLU",
+			"Capacity": "62",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Tuesday",
+              "Start":"13:00",
+              "End":"15:50"
+            }
+			]
+        },
+        {
+            "courseId": "MGT4088",
+            "courseName": "Project Management for Engineers",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "MUSTAFA CEM ÇELİK",
+			"Capacity": "67",
+            "Semester": "Fall",
+            "Schedule": [
+            {
+              "Day":"Monday",
+              "Start":"10:00",
+              "End":"12:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MSE4073",
+            "courseName": "Materials Engineering Economics and Plant Design",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "GÖRKEM YUMUŞAK",
+			"Capacity": "56",
+            "Semester": "Spring",
+            "Schedule": [
+            {
+              "Day":"Tuesday",
+              "Start":"13:00",
+              "End":"14:50"
+            },
+            {
+              "Day":"Thursday",
+              "Start":"14:00",
+              "End":"14:50"
+            }
+            ]
+        },
+        {
+            "courseId": "MSE4074",
+            "courseName": "Total Quality Management in Materials Engineering",
+            "Type": "FTE",
+            "T": "3",
+            "U": "0",
+            "Credit": "5",
+            "ECTS": "5",
+			"Instructor": "SEVAL GENÇ",
+			"Capacity": "80",
+            "Semester": "Spring",
+            "Schedule": [
+			{
+              "Day":"Saturday",
+              "Start":"14:00",
+              "End":"16:50"
+            }
+			]
+        }
+    ],
+
+
+    "(NTE / ENG-UE) Non-Technical and University Elective Courses": [
+        {
+            "courseId": "BUS1003",
+            "courseName": "Entrepreneurship and Innovation",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"HANDE SİNEM ERGÜN",
+			"Capacity":"50",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "BUS1004",
+            "courseName": "Strategic Entrepreneurship",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"HANDE SİNEM ERGÜN",
+			"Capacity":"50",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day":"Wednesday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "BUS2005",
+            "courseName": "International Business",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SEVAL GENÇ",
+			"Capacity":"50",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"18:00",
+				"End":"19:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS1001",
+            "courseName": "Self Management",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"UĞUR ÖZVEREN",
+			"Capacity":"70",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"18:00",
+				"End":"19:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS1010",
+            "courseName": "Our Biosphere",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"UĞUR ÖZVEREN",
+			"Capacity":"60",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS1061",
+            "courseName": "Geometric Origami",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"UĞUR ÖZVEREN",
+			"Capacity":"55",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"16:00",
+				"End":"17:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS2001",
+            "courseName": "Energy for Physical Activity",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"FATMA BEYZA BAŞARAN",
+			"Capacity":"64",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS2002",
+            "courseName": "Human Performance and Nutrition",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"FATMA BEYZA BAŞARAN",
+			"Capacity":"80",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Tuesday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS2003",
+            "courseName": "Cardiopulmonary Resuscitation and First Aid Basics",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"BESTE TURANLI",
+			"Capacity":"50",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Tuesday",
+				"Start":"15:00",
+				"End":"16:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS2004",
+            "courseName": "Interpersonal Relations and Communication",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"BESTE TURANLI",
+			"Capacity":"75",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"18:00",
+				"End":"19:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS2005",
+            "courseName": "Trekking and Orienteering",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"BEYTULLAH GÜLTEKİN ÇETİNER",
+			"Capacity":"60",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Saturday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS3001",
+            "courseName": "Earthquake and Rescue Principles",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"BEYTULLAH GÜLTEKİN ÇETİNER",
+			"Capacity":"74",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"14:00",
+				"End":"13:50"
+			}
+			]
+        },
+        {
+            "courseId": "CAS3044",
+            "courseName": "Positive Thinking",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"FATMA BEYZA BAŞARAN",
+			"Capacity":"68",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Thursday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "COMM2060",
+            "courseName": "Communication Models and Techniques",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"FATMA BEYZA BAŞARAN",
+			"Capacity":"60",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Friday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "FNCE3003",
+            "courseName": "Investment Planning",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"AYTÜN ALAKUŞ",
+			"Capacity":"78",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "HR1013",
+            "courseName": "Career Development",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"HANDE SİNEM ERGÜN",
+			"Capacity":"60",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "HR4001",
+            "courseName": "Career Orientation",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZGE KANAT",
+			"Capacity":"82",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "HSS3002",
+            "courseName": "Ethics in Engineering and Science",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZGE KANAT",
+			"Capacity":"63",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "IKT1054",
+            "courseName": "Industrial and Economic Sociology",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SİNAN ÇAYA",
+			"Capacity":"40",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "INF1001",
+            "courseName": "Information Literacy in Engineering",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZGE KANAT",
+			"Capacity":"72",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Saturday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "LAW2004",
+            "courseName": "Labor Law",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"DENİZ ÖNER",
+			"Capacity":"76",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"16:00",
+				"End":"17:50"
+			}
+			]
+        },
+        {
+            "courseId": "MAN1001",
+            "courseName": "Principles of Managerial Economics & Financial Management",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"DENİZ ÖNER",
+			"Capacity":"49",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"12:00",
+				"End":"13:50"
+			}
+			]
+        },
+        {
+            "courseId": "MGT1021",
+            "courseName": "Design, Innovation and Entrepreneurship",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"HAYRİYE EBRU OYDAĞ",
+			"Capacity":"30",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"14:00",
+				"End":"15:50"
+			}
+			]
+        },
+        {
+            "courseId": "MGT3082",
+            "courseName": "Creativity And Innovation Management",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZLEM YILMAZ",
+			"Capacity":"53",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "MRK3082",
+            "courseName": "Integrated Marketing Communication",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"AYTÜN ALAKUŞ",
+			"Capacity":"56",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Thursday",
+				"Start":"10:00",
+				"End":"11:50"
+			}
+			]
+        },
+        {
+            "courseId": "MRK3084",
+            "courseName": "Brand Creation/Branding",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"AYTÜN ALAKUŞ",
+			"Capacity":"70",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day":"Friday",
+				"Start":"15:00",
+				"End":"16:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1002",
+            "courseName": "Effects of Human Behaviour on Environment",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SEDA TUNOĞLU",
+			"Capacity":"80",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Friday",
+				"Start":"18:00",
+				"End":"19:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1003",
+            "courseName": "The Culture of Radiation Safety",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"DENİZ ÖNER",
+			"Capacity":"60",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Thursday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1004",
+            "courseName": "World Cultures",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SEDA TUNOĞLU",
+			"Capacity":"90",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1006",
+            "courseName": "Basic Principles of Accessibility in Informatics and Technology",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ENGİN YILMAZ",
+			"Capacity":"70",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"10:00",
+				"End":"11:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1008",
+            "courseName": "Cinema",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"MUSTAFA ALEVLİ",
+			"Capacity":"75",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Saturday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1010",
+            "courseName": "Introduction to Finance for Engineers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"HAYRİYE EBRU OYDAĞ",
+			"Capacity":"69",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Saturday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1011",
+            "courseName": "Business Communication",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"TAYFUN AKYÜREK",
+			"Capacity":"55",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Tuesday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1012",
+            "courseName": "Introduction to Corporate Governance for Engineers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"TAYFUN AKYÜREK",
+			"Capacity":"74",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1013",
+            "courseName": "Business Intelligence for Managers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"TAYFUN AKYÜREK",
+			"Capacity":"80",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1014",
+            "courseName": "Introduction to Strategic Human Resources Management",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZLEM YILMAZ",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1015",
+            "courseName": "Introduction to Leadership & Management for Engineers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZLEM YILMAZ",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Thursday",
+				"Start":"10:00",
+				"End":"11:50"
+			}
+			]
+        },
+        {
+            "courseId": "NTE1016",
+            "courseName": "Introduction to Strategy for Engineers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ÖZLEM YILMAZ",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"14:00",
+				"End":"15:50"
+			}
+			]
+        },
+        {
+            "courseId": "OB2040",
+            "courseName": "Industrial Psychology",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SİNAN ÇAYA",
+			"Capacity":"40",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Tuesday",
+				"Start":"14:00",
+				"End":"15:50"
+			}
+			]
+        },
+        {
+            "courseId": "OB2041",
+            "courseName": "Behavioral Sciences for Engineers",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SİNAN ÇAYA",
+			"Capacity":"40",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"11:00",
+				"End":"12:50"
+			}
+			]
+        },
+        {
+            "courseId": "OB3043",
+            "courseName": "Organizational Behaviour",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"CAHİT KÖSE",
+			"Capacity":"60",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Thursday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "SOC3082",
+            "courseName": "Environmental Sociology",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"SİNAN ÇAYA",
+			"Capacity":"40",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Monday",
+				"Start":"09:00",
+				"End":"10:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDA1001",
+            "courseName": "German for Beginners",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"GÜLİZAR SEMRA ÖZKURT",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Wednesday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDA1002",
+            "courseName": "German",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"GÜLİZAR SEMRA ÖZKURT",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDA1003",
+            "courseName": "German Communication",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"GÜLİZAR SEMRA ÖZKURT",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Thursday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDA2001",
+            "courseName": "Seminars in German",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"GÜLİZAR SEMRA ÖZKURT",
+			"Capacity":"55",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Saturday",
+				"Start":"14:00",
+				"End":"15:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDF1001",
+            "courseName": "French for Beginners",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ROSA MARIA FLORES RANGEL",
+			"Capacity":"50",
+			"Semester":"Fall",
+			"Schedule":[
+			{
+				"Day":"Saturday",
+				"Start":"10:00",
+				"End":"11:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDF1002",
+            "courseName": "French",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ROSA MARIA FLORES RANGEL",
+			"Capacity":"55",
+			"Semester":"Spring",
+			"Schedule":[
+			{
+				"Day":"Wednesday",
+				"Start":"17:00",
+				"End":"18:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDI1004",
+            "courseName": "Report Writing in English",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"LALE ÖZDEMİR ŞAHİN",
+			"Capacity":"60",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day":"Wednesday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDIS1001",
+            "courseName": "Spanish for Beginners",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ROSA MARIA FLORES RANGEL",
+			"Capacity":"70",
+			"Semester":"Fall",
+			"Schedule": [
+			{
+				"Day":"Monday",
+				"Start":"13:00",
+				"End":"14:50"
+			}
+			]
+        },
+        {
+            "courseId": "YDIS1002",
+            "courseName": "Spanish",
+            "Type": "NTE-UE",
+            "T": "2",
+            "U": "0",
+            "Credit": "3",
+            "ECTS": "3",
+			"Instructor":"ROSA MARIA FLORES RANGEL",
+			"Capacity":"70",
+			"Semester":"Spring",
+			"Schedule": [
+			{
+				"Day":"Tuesday",
+				"Start":"10:00",
+				"End":"11:50"
+			}
+			]
+        }
+    ]
+}
