@@ -1,0 +1,6 @@
+str rasyonel
+int tamsayi
+def definition3
+\n alt alta sýralama yapma
+import math matematik iþlemlerinden önce yaz
+

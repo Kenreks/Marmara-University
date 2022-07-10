@@ -1,0 +1,12 @@
+﻿PARANTEZLERİ SAKIN UNUTMA
+integer = tamsayı
+float = ondalık sayı
+a,b = b,a değişkenleri değiştirir
+// tam sayı bölmesi yapar
+% bölmede kalanı bulur
+** üs anlamına gelir
+PEMDAS
+syntax error is something python doesnt know
+semantic error: getting result that different from what did you want or expect
+
+[::-1] string ters çevirme!!!!!!!!!!!!
