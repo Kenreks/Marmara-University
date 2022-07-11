@@ -1,0 +1,13 @@
+sortları öğren - best worst case - complexity
+
+input belirle
+
+kodları yaz
+
+count-time belirle
+
+grafik yap
+
+analiz-karşılaştırma yaz
+
+
